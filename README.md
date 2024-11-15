@@ -1,2 +1,2 @@
 # test.pytorch
-This is a stduent
+This is a test repositort for TouTouDe06
